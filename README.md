@@ -8,7 +8,7 @@ Demostración completa de las capacidades gráficas de una pantalla **OLED SSD13
 
 El proyecto implementa una secuencia de 12 escenas que muestran desde formas geométricas básicas hasta animaciones y paneles de control simulados.
 
-![Demo Animada](https://via.placeholder.com/800x200/007BFF/FFFFFF?text=ESP32-S3+SSD1306+Demo+Scenes) <!-- Reemplazar por un GIF real si está disponible -->
+![Demo Animada](IMG_0668.gif) <!-- Reemplazar por un GIF real si está disponible -->
 
 ---
 
